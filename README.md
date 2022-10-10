@@ -16,7 +16,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">TheDariaEdits</h3>
+      <h3 align="center">The Daria Edits</h3>
         <br />
         <a target="_blank" href="https://thedariaedits.netlify.app/">
             <img src="images/thedariaedits gif.gif" width="100%" alt="The Daria Edits"/>
@@ -34,7 +34,7 @@
         <p><strong>HTML5, CSS & Javascript</strong> - HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Drift Spa"</h3>
+      <h3 align="center">Drift Spa</h3>
         <br />
       <a target="_blank" href="https://driftspa.netlify.app/">
             <img src="images/drift-spa gif.gif" width="100%"  alt="Drift Spa"/>
