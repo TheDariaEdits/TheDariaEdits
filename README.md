@@ -20,7 +20,7 @@
       <h3 align="center">TheDariaEdits</h3>
         <br />
         <a target="_blank" href="https://thedariaedits.netlify.app/">
-            <img src="thedariaedits gif.gif" width="100%" alt="The Daria Edits"/>
+            <img src="images/thedariaedits gif.gif" width="100%" alt="The Daria Edits"/>
         </a>
         <br />
         <p align="center">
