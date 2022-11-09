@@ -72,5 +72,22 @@
         <p><strong>HTML5, CSS, & Javascript</strong> - A responsive website for a cafe that includes Javascript arrays.</p>
     </td>
 
+<td width="50%" valign="top">
+      <h3 align="center">Check the Stats</h3>
+      <br />
+        <a target="_blank" href="https://check-the-stats.herokuapp.com/">
+          <img src="/images/check-stats gif.gif" width="100%" alt="NBA Stats API"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/TheDariaEdits/NBA-Stats" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://oasis-cafe.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS, & Javascript, Node.js, Express, Heroku</strong> - A fullstack web application to check NBA stats using Ball Don't Lie API.</p>
+    </td>
   </tr>
 </table>
