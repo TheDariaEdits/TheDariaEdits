@@ -19,7 +19,7 @@
       <h3 align="center">The Daria Edits</h3>
         <br />
         <a target="_blank" href="https://thedariaedits.netlify.app/">
-            <img src="images/thedariaedits gif.gif" width="100%" alt="The Daria Edits"/>
+            <img src="images/thedariaedits gif.gif" width="100%" height="200px" alt="The Daria Edits"/>
         </a>
         <br />
         <p align="center">
@@ -37,7 +37,7 @@
       <h3 align="center">Drift Spa</h3>
         <br />
       <a target="_blank" href="https://driftspa.netlify.app/">
-            <img src="images/drift-spa gif.gif" width="100%"  alt="Drift Spa"/>
+            <img src="images/drift-spa gif.gif" width="100%"  height="200px" alt="Drift Spa"/>
         </a>
         <br />
         <p align="center">
@@ -58,7 +58,7 @@
       <h3 align="center">Oasis Cafe</h3>
       <br />
         <a target="_blank" href="https://oasis-cafe.netlify.app/">
-          <img src="images/oasis gif.gif" width="100%" alt="Portfolio"/>
+          <img src="images/oasis gif.gif" width="100%" height="200px" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
