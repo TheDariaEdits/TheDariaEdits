@@ -76,7 +76,7 @@
       <h3 align="center">Check the Stats</h3>
       <br />
         <a target="_blank" href="https://check-the-stats.herokuapp.com/">
-          <img src="/images/check-stats gif.gif" width="100%" alt="NBA Stats API"/>
+          <img src="/images/check-stats gif.gif" width="100%" height="200px" alt="NBA Stats API"/>
         </a>
       <br />
         <p align="center">
